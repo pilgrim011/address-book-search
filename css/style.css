@@ -1,0 +1,26 @@
+.pravna_lica {
+  float: left;
+  position: relative;
+  width: 45%;
+}
+
+.fizicka_lica {
+  float: right;
+  position: relative;
+  width: 45%;
+}
+
+.pretraga {
+  margin-top: 100px;
+  text-align: center;
+  vertical-align: middle
+}
+
+button {
+  color: #F0F5F7;
+  background: #1A3640;
+  font-weight: bold;
+  border: 3px double #FC6;
+  border-top-color: #FC9;
+  border-left-color: #FC9;
+}
